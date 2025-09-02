@@ -139,6 +139,18 @@ To create a simple Stopwatch Application using HTML, CSS, and JavaScript that ca
 
 ## OUTPUT :
 
+START:
+
+<img width="1919" height="1076" alt="Screenshot 2025-09-02 200529" src="https://github.com/user-attachments/assets/ca2461a9-46b2-419d-891c-2a5c286ae528" />
+
+
+STOP:
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-02 200542" src="https://github.com/user-attachments/assets/2f72d7d7-f32a-4012-8929-a24230aa7b92" />
+
+
+RESET:
+
 <img width="1919" height="1079" alt="Screenshot 2025-09-02 200552" src="https://github.com/user-attachments/assets/ad3a5809-be9f-40c5-9454-c56546320272" />
 
 ## RESULT :
